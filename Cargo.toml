@@ -1,0 +1,13 @@
+[package]
+name        = "imglife"
+description = "⢥ Play Conway's Game of Life with images"
+version     = "1.0.1"
+license     = "CC0-1.0"
+homepage    = "https://github.com/casey/imglife"
+authors     = ["Casey Rodarmor <casey@rodarmor.com>"]
+readme      = "README.md"
+
+[dependencies]
+clap             = "2.31.2"
+css-color-parser = "0.1.2"
+image            = "0.19.0"
