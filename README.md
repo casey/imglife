@@ -1,7 +1,7 @@
 # imglife
 
 ```
-imglife v1.0.4
+imglife v1.0.5
 Casey Rodarmor <casey@rodarmor.com>
 ⢥ Play Conway's Game of Life with images - https://github.com/casey/imglife
 
